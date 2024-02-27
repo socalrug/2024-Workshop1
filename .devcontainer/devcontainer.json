@@ -9,8 +9,22 @@
 				"ms-toolsai.vscode-jupyter-cell-tags",
 				"ms-toolsai.jupyter-keymap",
 				"ms-toolsai.jupyter-renderers",
-				"ms-toolsai.vscode-jupyter-slideshow"
+				"ms-toolsai.vscode-jupyter-slideshow",
+				"ms-python.python",
+				"ms-vsliveshare.vsliveshare"
 			]
+		}
+	},
+	"features": {
+		"ghcr.io/rocker-org/devcontainer-features/r-apt:0": {
+			"installDevTools": true,
+			"installREnv": true,
+			"useTesting": true,
+			"vscodeRSupport": "minimal"
+		},
+		"ghcr.io/rocker-org/devcontainer-features/rstudio-server:0": {
+			"singleUser": true,
+			"version": "stable"
 		}
 	}
 }
