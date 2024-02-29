@@ -1,5 +1,5 @@
 # 2024 - Workshop1 - Version Control in Data Analytics
-## Getting real with git and Github
+### Getting real with git and Github
 ### Hosted By: SoCal RUG and UCI MSBA
 
 # Welcome
