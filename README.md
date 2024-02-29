@@ -8,7 +8,7 @@ So glad you're here! We hope this workshop on version control with git/Github is
 
 You'll learn why it's such a game changer and come away equipped with an employable skill! If we're honest you'll probably come away feeling like this...
 
-![Master of the Universe](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZva2t4ZThjZGgyanZqN2VpbTh4N2hkdmQzZG5uejhzc3Y1NWQzNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ph5ELYJov9n5oHzVHZ/giphy.gif){fig-align="left"}
+![Master of the Universe](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZva2t4ZThjZGgyanZqN2VpbTh4N2hkdmQzZG5uejhzc3Y1NWQzNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ph5ELYJov9n5oHzVHZ/giphy.gif)
 
 # Preparation before Workshop
 
