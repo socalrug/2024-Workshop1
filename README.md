@@ -15,6 +15,7 @@ There are just a couple items you'll need to have ready before the workshop:
 
 - [Create a Github account](https://www.github.com) (if you don't already have one)
 - [Download VS Code](https://code.visualstudio.com/) (it's free!)
+- Knowing some markdown will be helpful, but don't worry, you can always copy/paste/edit like a real software engineer 😛 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 # Day of Workshop
 
