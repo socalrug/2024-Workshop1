@@ -1,0 +1,10 @@
+---
+title: "Sep Dadsetan"
+image: https://media.licdn.com/dms/image/D5635AQFVAbj4RPtyeQ/profile-framedphoto-shrink_400_400/0/1705107711645?e=1710093600&v=beta&t=IimJJSt8nrAteO6oyp-_dENxYh32KtesUO6Qq-2rUxI
+alt: "Sep Dadsetan"
+href: https://www.linkedin.com/in/sepdadsetan/
+code: https://github.com/phdjsep/
+categories:
+  - socalrug
+  - lecturer
+---

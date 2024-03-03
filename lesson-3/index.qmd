@@ -1,0 +1,21 @@
+---
+title: "Workshop1 Yearbook"
+format:
+  html:
+    toc: false
+    page-layout: full
+search: false
+execute:
+  echo: false
+listing:
+  - id: showcase
+    contents: "showcase/**/index.qmd"
+    template: html/listing.ejs
+    categories: true
+---
+
+Hi! So glad you can join us for this workshop on using git and Github. We'd love for you to create a little link for your self so that people can find you on LinkedIn (or your preferred social media) and connect! Community is everything 😁
+
+:::{#showcase}
+:::
+

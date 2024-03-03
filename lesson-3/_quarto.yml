@@ -1,0 +1,55 @@
+project:
+  type: website
+  preview:
+    port: 4200
+    browser: true
+  
+website: 
+  title: "Workshop Yearbook"
+  description: "A gallery of awesome workshop participants"
+  back-to-top-navigation: true
+  page-navigation: true
+  site-url: "https://quarto.club" 
+  repo-url: https://github.com/socalrug/Workshop1 
+  repo-actions: []
+
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    
+  sidebar:
+    title: "Workshop1"
+    logo: "assets/img/quarto-club.png"
+    pinned: true
+    align: center
+    tools: 
+      - icon: github
+        href: https://github.com/socalrug/Workshop1
+        text: "Github"
+    style: "docked"
+    search: false
+    collapse-level: 1
+    contents:
+      - href: contribute.qmd
+        text: How to Contribute
+      - href: resources.qmd
+        text: Resources
+
+format:
+  html:
+    include-in-header:
+      - text: |
+          <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+          <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+          <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+          <link rel="manifest" href="/site.webmanifest">
+          <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+          <meta name="msapplication-TileColor" content="#da532c">
+          <meta name="theme-color" content="#ffffff">
+    theme:
+      light: [cosmo, assets/styles/styles.scss]
+    code-copy: true
+    code-overflow: wrap
+    toc: false
+
+execute:
+  freeze: auto
