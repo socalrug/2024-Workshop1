@@ -25,7 +25,7 @@ We'll go over the following on Workshop day...
 
 Just to help expedite everyone's setup and avoid any discrepancies between computers, we've setup a handy Github Codespace that you can launch. It's free for 60 hours (more than enough for today) and it has Python, R, and some other handy features we'll cover on the day of.
 
-Click the link below to open a development environment with everything setup for you 💝
+Fork the Repo, then click the link below to open a development environment with everything setup for you 💝
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/socalrug/2024-Workshop1?quickstart=1)
 
