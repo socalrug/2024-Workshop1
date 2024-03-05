@@ -21,7 +21,7 @@ execute:
 
 <hr>
 
-<h3> Sep Dadsetan, PhD - Executive Director, RWD Tech at </h3>
+<h3> Sep Dadsetan, PhD - Executive Director, RWD Analytics at </h3>
 
 <h3> 2024-03-09 </h3>
 <br>
@@ -92,7 +92,7 @@ Version control is not just a tool for software developers. It's an essential pa
 ## Section 2: Dive into Git
 
 - Introduction to Git as a distributed version control system
-- Basic commands and workflow (clone, add, commit, push, pull)
+- Basic commands and workflow (add/stage, commit, log)
 - Branching and merging in Git
 - Demonstration with a simple project
 
@@ -144,23 +144,48 @@ Here's how it works:
 So, version control is like a magical camera for your projects. It lets you take pictures of what you're working on, try new things without worry, work with friends, and even go back in time if you need to. It's a way to make sure that you can always see how your puzzle—or your project—has grown and changed.
 :::
 
-## Basic Git Usage and Concepts
+## Basic Git Usage and Concepts - Lesson 1
 
 ### Adding and Committing
 
 ![](https://marklodato.github.io/visual-git-guide/basic-usage.svg){fig-align="center"}
 
-## Let's get our hands dirty
-
-If this is your first exposure to Git, I'll say that it takes getting used to and the **best way to do that is by using it**. 
-
-## Basic Git Usage and Concepts
+## Basic Git Usage and Concepts - Lesson 2
 
 ### Branching
 
 ![](https://marklodato.github.io/visual-git-guide/conventions.svg){fig-align="center"}
 
-#### WIP...
+## Break (20 min)
+
+- Network
+- Discuss
+- Refresh
+
+## Working with Github - Lesson 3
+
+- **Explanation and Demonstration**: 
+  - What is GitHub?
+  - Pushing, Pulling
+  - Forks, clones, and pull requests. 
+- **Hands-on Practice**:
+  - Lesson 3 - add your picture to the yearbook!
+
+## Collaborating on Github
+
+- **Explanation and Demonstration (15 minutes)**:   
+  - GitHub issues and project boards. 
+- **Hands-on Practice (25 minutes)**: 
+  - Create an issue related to your pull request and manage it on a project board.
+
+
+## Helpful Resources
+
+- [Git Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- [git - the simple guide](https://rogerdudler.github.io/git-guide/)
+- [Happy Git and Github for the useR](https://happygitwithr.com/)
+- [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
+
 
 ## Thank You's
 
@@ -172,11 +197,5 @@ If this is your first exposure to Git, I'll say that it takes getting used to an
 
 ![](https://media0.giphy.com/media/ZfK4cXKJTTay1Ava29/giphy.gif?cid=ecf05e47phg610lp121k3yrti5pg6e21zpfgpy728m9nu5h1&ep=v1_gifs_search&rid=giphy.gif&ct=g){fig-align="center"}
 
-## Helpful Resources
-
-- [Git Cheatsheet](https://education.github.com/git-cheat-sheet-education.pdf)
-- [git - the simple guide](https://rogerdudler.github.io/git-guide/)
-- [Happy Git and Github for the useR](https://happygitwithr.com/)
-- [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
 
 
