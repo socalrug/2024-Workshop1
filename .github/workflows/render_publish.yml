@@ -1,5 +1,9 @@
 name: Deploy to Github Pages on PR
-'on': pull_request
+
+'on':
+  push:
+    branches:
+      - main
 
 permissions: 
     contents: write
