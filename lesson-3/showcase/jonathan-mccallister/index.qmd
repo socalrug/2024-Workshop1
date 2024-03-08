@@ -1,0 +1,10 @@
+---
+title: "Jonathan McCallister"
+image: https://www.thispersondoesnotexist.com/
+alt: "Jonathan McCallister"
+href: https://www.github.com/phdjsep
+code: https://github.com/phdjsep/
+categories:
+  - uci
+  - student
+---
