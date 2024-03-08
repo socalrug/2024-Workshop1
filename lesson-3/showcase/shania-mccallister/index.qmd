@@ -1,7 +1,7 @@
 ---
-title: "Jonathan McCallister"
+title: "Shania McCallister"
 image: https://www.thispersondoesnotexist.com/
-alt: "Jonathan McCallister"
+alt: "Shania McCallister"
 href: https://www.github.com/phdjsep
 code: https://github.com/phdjsep/
 categories:
