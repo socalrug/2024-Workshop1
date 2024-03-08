@@ -1,7 +1,7 @@
 ---
-title: "Testy McTesterson"
-image: https://media.licdn.com/dms/image/D5635AQFVAbj4RPtyeQ/profile-framedphoto-shrink_400_400/0/1705107711645?e=1710093600&v=beta&t=IimJJSt8nrAteO6oyp-_dENxYh32KtesUO6Qq-2rUxI
-alt: "Testy McTesterson"
+title: "Jonathan McCallister"
+image: https://www.thispersondoesnotexist.com/
+alt: "Jonathan McCallister"
 href: https://www.github.com/phdjsep
 code: https://github.com/phdjsep/
 categories:
