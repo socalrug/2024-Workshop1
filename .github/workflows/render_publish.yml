@@ -13,6 +13,9 @@ jobs:
   build_and_preview:
     if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
+    defaults:
+        run:
+          working-directory: lesson-3
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
