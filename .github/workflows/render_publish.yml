@@ -1,9 +1,9 @@
 name: Deploy to Github Pages on PR
 
-'on':
-  push:
-    branches:
-      - main
+on:
+  pull_request:
+    types:
+      - closed
 
 permissions: 
     contents: write
@@ -11,7 +11,7 @@ permissions:
     
 jobs:
   build_and_preview:
-    if: '${{ github.event.pull_request.head.repo.full_name == github.repository }}'
+    if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
