@@ -26,11 +26,11 @@ execute:
 <h3> 2024-03-09 </h3>
 <br>
 
-<h3> `r fontawesome::fa("linkedin", "black")` &nbsp; [linkedin.com/in/sepdadsetan/](https://www.linkedin.com/in/sepdadsetan/)
+<h3> [linkedin.com/in/sepdadsetan/](https://www.linkedin.com/in/sepdadsetan/)
 
-![](images/github_hex.png){.absolute top=680 left=1450 width="300"}
+![](images/github_hex.png){.absolute top=480 left=1250 width="300"}
 
-![](images/logo-dark.svg){.absolute top=268 left=1250 height="65"}
+![](images/logo-dark.svg){.absolute top=165 left=1370 height="65"}
 
 ## Introduction
 
@@ -44,6 +44,12 @@ Overview of today's agenda:
   - Assignment 4: Collaborating on GitHub (45 minutes)
   - Closing (10 minutes)
 
+## Questions for the Group?
+
+Let's say that you just wrote the most amazing analysis. It's dialed in and on autopilot. Reads in the data source like an 18th century philosopher, performs data gymnastics better than Simone Biles, and presents a  decision matrix so clear that it cures blindness.
+
+
+BUT...you've now been asked to modify the analysis to include another parameter. How do you deal with that ask without damaging your beautiful analysis?
 
 ## Section 1: Importance of Version Control
 
