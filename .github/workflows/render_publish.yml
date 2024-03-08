@@ -34,6 +34,4 @@ jobs:
           target: gh-pages
           path: lesson-3
         env:
-          # GITHUB_USERNAME: phdjsep
-          # GITHUB_EMAIL: phdjsep@protonmail.com
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # this secret is always available for github actions
