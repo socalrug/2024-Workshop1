@@ -13,9 +13,7 @@ jobs:
   build_and_preview:
     if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
-    defaults:
-        run:
-          working-directory: ./lesson-3
+
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -27,6 +25,7 @@ jobs:
         uses: quarto-dev/quarto-actions/render@v2
         with:
           to: html
+          path: lesson-3
 
     #   NOTE: If Publishing to GitHub Pages, set the permissions correctly (see top of this yaml)
       - name: Publish to GitHub Pages (and render) 
