@@ -1,0 +1,10 @@
+---
+title: "Rithvik Kalidindi"
+image: https://media.licdn.com/dms/image/D5635AQGeRpfOOrl3Gw/profile-framedphoto-shrink_400_400/0/1696655021478?e=1710622800&v=beta&t=vBTAcmVkxDPMWLr9ydeuG7v8er34nR6_DQDPde-2V3E
+alt: "Rithvik Kalidindi"
+href: https://www.linkedin.com/in/rithvik-kalidindi/
+code: https://github.com/Rithvik73/
+categories:
+  - socalrug
+  - lecturer
+---
