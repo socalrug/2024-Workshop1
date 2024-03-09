@@ -5,5 +5,5 @@ href: https://www.linkedin.com/in/chrischen812/
 code: https://github.com/chrischen812
 categories:
   - socalrug
-  - R coding exercise
+  - studient of life
 ---
