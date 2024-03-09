@@ -3,7 +3,7 @@ title: "Sem Leontev"
 image: https://media.licdn.com/dms/image/D5603AQEHhZHk13Pi6A/profile-displayphoto-shrink_400_400/0/1681157080562?e=1715212800&v=beta&t=pTBNR3OAZcE_Xmnd26HOaexL10a41dWa1qZg90bXXZs
 alt: "Sem Leontev"
 href: https://www.linkedin.com/in/semleontev/
-code: https://github.com/semyon/
+code: https://github.com/seemyon/
 categories:
   - socalrug
   - data science
