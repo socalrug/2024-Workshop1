@@ -1,1 +1,1 @@
-Sitemap: https://quarto.club/sitemap.xml
+Sitemap: https://socalrug.github.io/Workshop1/sitemap.xml
