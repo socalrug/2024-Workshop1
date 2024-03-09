@@ -1,0 +1,9 @@
+---
+title: "Christopher Chen"
+alt: "Christopher Chen"
+href: https://www.linkedin.com/in/chrischen812/
+code: https://github.com/chrischen812
+categories:
+  - socalrug
+  - lecturer
+---
