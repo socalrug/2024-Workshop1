@@ -51,6 +51,10 @@ Let's say that you just wrote the most amazing analysis. It's dialed in and on a
 
 BUT...you've now been asked to modify the analysis to include another parameter. How do you deal with that ask without damaging your beautiful analysis?
 
+## Don't do this...
+
+![](images/phd_comics_notfinal.gif){fig-align="center"}
+
 ## Section 1: Importance of Version Control
 
 Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. It's a critical practice in software development and has become increasingly important in data science as well. Here's why:
