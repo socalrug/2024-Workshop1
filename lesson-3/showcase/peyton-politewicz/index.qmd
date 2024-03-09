@@ -6,7 +6,7 @@ href: https://www.linkedin.com/in/pjpmgmt/
 code: https://github.com/pjamespz/
 categories:
   - socalrug
-  - lecturer
   - statistics
   - data science
+  - data engineering
 ---
