@@ -1,0 +1,11 @@
+---
+title: "TJ Tolliver"
+image: https://media.licdn.com/dms/image/D5635AQEkj-T-6Ko_Mg/profile-framedphoto-shrink_100_100/0/1707512798551?e=1710622800&v=beta&t=-e4Vk3ecuxTt3BYgbwUuT82wxZ-0QvIjBPpfxfFmgZ0
+alt: "tj tolliver"
+href: https://www.linkedin.com/in/tj-tolliver/
+code: https://github.com/teejtravels
+categories:
+  - socalrug
+  - student
+  - cool guy
+---
