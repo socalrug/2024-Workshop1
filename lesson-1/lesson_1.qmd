@@ -5,28 +5,28 @@ format: html
 
 # Student Introduction Form
 
-I'm a Master's of Data Science student who needs some more hands-on instruction!
+Please fill out the following questions to help us know you better. Your responses will be invaluable in making the learning experience more tailored and engaging.
 
 ## Personal Information
 
 **Name:**  
-Peyton Politewicz
+_Jacob Zamore_
 
 **Major/Field of Study:**  
-Master's of Data Science
+_Software Engineering_
 
 ## About You
 
 **1. What are your hobbies or interests?**  
-I'm new to the area. Most of all, I'm trying to get acquainted to the area. I like cooking, hiking - trying to brainworm my way into enjoying the outdoors more now that I live in a place that is so gorgeous all the time.
+_Write about your hobbies or interests here._
 
 **2. Why did you choose your current field of study?**  
-I've been doing my work in data science spaces for years and I'm here to formalize those skills. 
+_Explain why you chose your field of study._
 
-**3. What is one skill you wish to improve or learn?** 
-That's an easy one - github!!
+**3. What is one skill you wish to improve or learn?**  
+_Mention one skill you wish to improve or learn._
 
 ## Future Goals
 
 **Where do you see yourself in 5 years?**  
-One of two places - data engineer or statistician. No in-betweens, extremes only!
+_Describe your goals and where you see yourself in 5 years._
