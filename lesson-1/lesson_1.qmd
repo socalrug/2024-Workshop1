@@ -29,4 +29,4 @@ _Coding, Data Analysis, Visualisation, and git_
 ## Future Goals
 
 **Where do you see yourself in 5 years?**  
-_Senior Machine Learning Engineer, Senior Data Analyst._
+_Senior Machine Learning Engineer, Senior Data Analyst or a Senior business Analyst._
