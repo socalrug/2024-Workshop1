@@ -25,7 +25,10 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Here are a list of helpful links and resources that go deeper into the amazing things you can do with Quarto.\n\nStarter Template Docs\n\n\n\n\n Back to top"
+    "text": "Here are a list of helpful links and resources that go deeper into the amazing things you can do with Quarto.\n\nStarter Template Docs\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Resources"
+    ]
   },
   {
     "objectID": "websites/arrow-workshop/index.html",
@@ -200,14 +203,20 @@
     "href": "contribute.html",
     "title": "How to Contribute",
     "section": "",
-    "text": "Fork the repository\nCreate a folder inside of the /showcase folder\nAdd an index.qmd file to your newly created folder\nThe header of your index.qmd file should follow this example (feel free to add as many categories as you see fit):\n\n\n\nindex.qmd\n\n---\ntitle: \"2021 Cloud Hackathon\"\nimage: websites-2021-cloud-hackathon.png\nalt: \"2021 Cloud Hackathon website\"\nhref: https://nasa-openscapes.github.io/2021-Cloud-Hackathon/\ncode: https://github.com/nasa-openscapes/2021-Cloud-Hackathon\ncategories:\n  - website\n  - workshop\n---\n\n\nSubmit a pull request!"
+    "text": "Fork the repository\nCreate a folder inside of the /showcase folder\nAdd an index.qmd file to your newly created folder\nThe header of your index.qmd file should follow this example (feel free to add as many categories as you see fit):\n\n\n\nindex.qmd\n\n---\ntitle: \"2021 Cloud Hackathon\"\nimage: websites-2021-cloud-hackathon.png\nalt: \"2021 Cloud Hackathon website\"\nhref: https://nasa-openscapes.github.io/2021-Cloud-Hackathon/\ncode: https://github.com/nasa-openscapes/2021-Cloud-Hackathon\ncategories:\n  - website\n  - workshop\n---\n\n\nSubmit a pull request!",
+    "crumbs": [
+      "How to Contribute"
+    ]
   },
   {
     "objectID": "contribute.html#how-to-add-your-site-to-the-club",
     "href": "contribute.html#how-to-add-your-site-to-the-club",
     "title": "How to Contribute",
     "section": "",
-    "text": "Fork the repository\nCreate a folder inside of the /showcase folder\nAdd an index.qmd file to your newly created folder\nThe header of your index.qmd file should follow this example (feel free to add as many categories as you see fit):\n\n\n\nindex.qmd\n\n---\ntitle: \"2021 Cloud Hackathon\"\nimage: websites-2021-cloud-hackathon.png\nalt: \"2021 Cloud Hackathon website\"\nhref: https://nasa-openscapes.github.io/2021-Cloud-Hackathon/\ncode: https://github.com/nasa-openscapes/2021-Cloud-Hackathon\ncategories:\n  - website\n  - workshop\n---\n\n\nSubmit a pull request!"
+    "text": "Fork the repository\nCreate a folder inside of the /showcase folder\nAdd an index.qmd file to your newly created folder\nThe header of your index.qmd file should follow this example (feel free to add as many categories as you see fit):\n\n\n\nindex.qmd\n\n---\ntitle: \"2021 Cloud Hackathon\"\nimage: websites-2021-cloud-hackathon.png\nalt: \"2021 Cloud Hackathon website\"\nhref: https://nasa-openscapes.github.io/2021-Cloud-Hackathon/\ncode: https://github.com/nasa-openscapes/2021-Cloud-Hackathon\ncategories:\n  - website\n  - workshop\n---\n\n\nSubmit a pull request!",
+    "crumbs": [
+      "How to Contribute"
+    ]
   },
   {
     "objectID": "showcase/sepd-dev/index.html",
@@ -262,6 +271,13 @@
     "objectID": "showcase/sep-dadsetan/index.html",
     "href": "showcase/sep-dadsetan/index.html",
     "title": "Sep Dadsetan",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "showcase/shrihari-sekar/index.html",
+    "href": "showcase/shrihari-sekar/index.html",
+    "title": "Shri Hari Sekar",
     "section": "",
     "text": "Back to top"
   }

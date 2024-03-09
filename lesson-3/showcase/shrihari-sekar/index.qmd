@@ -1,0 +1,10 @@
+---
+title: "Shri Hari Sekar"
+image: https://media.licdn.com/dms/image/D5603AQF-zOWrJR4nKQ/profile-displayphoto-shrink_200_200/0/1691943872446?e=2147483647&v=beta&t=bhSj69JxI93FWf5iwq4I-Nap0Wmfl-bInBsNKF662dk
+alt: "Shri Hari Sekar"
+href: https://www.linkedin.com/in/shrihari99/
+code: https://github.com/mozartco/
+categories:
+  - student
+  - data enthusiast
+---
