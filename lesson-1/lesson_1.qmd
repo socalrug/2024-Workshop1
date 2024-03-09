@@ -18,15 +18,16 @@ _Business Analytics_
 ## About You
 
 **1. What are your hobbies or interests?**  
-_Studying on Saturdays_
+_Exploring Southern California, surprised how beautiful this place is_
 
 **2. Why did you choose your current field of study?**  
-_To know how to Business Analyse_
+_Analyse the data, trends and generating insights is something I really enjoy doing both at
+my professional and personal life_
 
 **3. What is one skill you wish to improve or learn?**  
-_This is for sure: software engineering_
+_Software engineering (Python, R)_
 
 ## Future Goals
 
 **Where do you see yourself in 5 years?**  
-_In Newport Beach_
+_ML engineer (probably AI by that time)_
