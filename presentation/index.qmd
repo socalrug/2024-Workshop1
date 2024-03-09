@@ -154,6 +154,16 @@ Here's how it works:
 So, version control is like a magical camera for your projects. It lets you take pictures of what you're working on, try new things without worry, work with friends, and even go back in time if you need to. It's a way to make sure that you can always see how your puzzle—or your project—has grown and changed.
 :::
 
+## Tool Setup and Walkthrough
+
+- Codespaces
+  - Getting Started
+- VS Code
+  - Cloud vs Local
+- Asking Questions
+  - On Github or Raise your hand
+
+
 ## Basic Git Usage and Concepts - Lesson 1
 
 ### Adding and Committing
@@ -185,8 +195,9 @@ So, version control is like a magical camera for your projects. It lets you take
 
 - **Explanation and Demonstration (15 minutes)**:   
   - GitHub issues and project boards. 
+  - Connecting fixes to issues.
 - **Hands-on Practice (25 minutes)**: 
-  - Create an issue related to your pull request and manage it on a project board.
+  - Create an issue related to your pull request and make a fix.
 
 
 ## Helpful Resources
