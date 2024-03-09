@@ -10,10 +10,10 @@ Please fill out the following questions to help us know you better. Your respons
 ## Personal Information
 
 **Name:**  
-_Type your name here._
+_Jacob Zamore_
 
 **Major/Field of Study:**  
-_Type your major or field of study here._
+_Software Engineering_
 
 ## About You
 
