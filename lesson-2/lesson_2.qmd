@@ -6,5 +6,6 @@ format: html
 1. Create a branch called `favorite-foods`
 2. Add a file called `favorite-foods.md`
 3. List 3 of your favorite foods
+akki rotti,pasta,pani puri
 4. Save the file and commit to your branch.
 5. Switch to the `main` branch and merge your `favorite-foods` branch
