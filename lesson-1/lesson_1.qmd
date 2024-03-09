@@ -13,7 +13,7 @@ Please fill out the following questions to help us know you better. Your respons
 Christopher Chen (CC)
 
 **Major/Field of Study:**  
-Mathematic/Actuarial Science
+Mathematic/Actuarial Science/ML
 
 ## About You
 
