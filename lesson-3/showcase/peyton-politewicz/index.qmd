@@ -9,4 +9,6 @@ categories:
   - statistics
   - data science
   - data engineering
+  - r
+  - python
 ---
