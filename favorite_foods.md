@@ -1,3 +1,0 @@
-### Steak
-## Pineapple
-# Cookies
