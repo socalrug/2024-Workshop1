@@ -1,3 +1,0 @@
-Banana
-Apple
-Orange
