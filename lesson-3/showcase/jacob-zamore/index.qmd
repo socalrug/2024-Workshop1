@@ -1,0 +1,12 @@
+---
+title: "Jacob Zamore"
+image: https://media.licdn.com/dms/image/D4D03AQE_mlvgWa6Oog/profile-displayphoto-shrink_200_200/0/1678075651181?e=1715212800&v=beta&t=7YADkeXAg1J2j9pTomoxK5RIg23N8Sp_UkqAhFPAnHY
+alt: "THE GOAT HIMSELF"
+href: https://www.linkedin.com/in/jacobzamore/
+code: https://github.com/JacobZCodes
+categories:
+  - c/c++
+  - chapman student
+  - bicycle enthusiast
+  - supremely literate
+---

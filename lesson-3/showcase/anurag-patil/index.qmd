@@ -1,0 +1,10 @@
+---
+title: "Anurag Patil"
+image: https://media.licdn.com/dms/image/D4D03AQGu4akvpQ__sw/profile-displayphoto-shrink_400_400/0/1691462704449?e=1715212800&v=beta&t=0CrRyNUM9u_MUqlpKqw5h2tef6W9vln10u6tzSlbJxQ
+alt: "Anurag Patil"
+href: www.linkedin.com/in/arpatilanalyst
+code: https://github.com/analyst-patilanurag/
+categories:
+  - socalrug
+  - lecturer
+---
