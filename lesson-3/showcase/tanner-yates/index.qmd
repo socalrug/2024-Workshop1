@@ -1,0 +1,11 @@
+---
+title: "Tanner Yates"
+image: https://media.licdn.com/dms/image/D5603AQFeyHPimjoDjw/profile-displayphoto-shrink_400_400/0/1705682236669?e=1715212800&v=beta&t=HYyOyCza-7Z88-tErXy_OVi2UDHhWMk953qp81hqM4A
+alt: "Tanner Yates"
+href: https://linkedin.com/tanneryates
+code: https://github.com/tyates33
+categories:
+  - sports
+  - student
+  - movie enjoyer
+---
