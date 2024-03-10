@@ -1,3 +1,0 @@
-Burger
-Pizza
-Fries
