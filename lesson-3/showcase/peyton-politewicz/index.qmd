@@ -1,0 +1,14 @@
+---
+title: "Peyton Politewicz"
+image: https://media.licdn.com/dms/image/D5603AQFJjVG7FkXRKw/profile-displayphoto-shrink_800_800/0/1700530754104?e=1715212800&v=beta&t=qV3AA5IKjh_MhB_dIPuPa-OdezO_wpvabh8bHCPa6zM
+alt: "Peyton Politewicz"
+href: https://www.linkedin.com/in/pjpmgmt/
+code: https://github.com/pjamespz/
+categories:
+  - socalrug
+  - statistics
+  - data science
+  - data engineering
+  - r
+  - python
+---

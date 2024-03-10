@@ -1,0 +1,10 @@
+---
+title: "Suyog"
+image: https://media.licdn.com/dms/image/D5635AQFe_I7PK1JPlA/profile-framedphoto-shrink_400_400/0/1707379279532?e=1710622800&v=beta&t=KQAh18am_SBl5_D15RyxCLieTARtgtv0Yht8oeoDjOI
+alt: "Sep Dadsetan"
+href: https://www.linkedin.com/in/sanklapur/
+code: https://github.com/suyog1729
+categories:
+  - Student
+  - Coding Enthusiast
+---
