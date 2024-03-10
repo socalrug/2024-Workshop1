@@ -1,0 +1,10 @@
+---
+title: "Dhanashree Badhe"
+image: https://media.licdn.com/dms/image/D4D35AQHaN2S3qHp2fQ/profile-framedphoto-shrink_100_100/0/1695232868700?e=1710622800&v=beta&t=edc-4aTpT3n76-ANBk1vVDbz45qyUiw7a-tkFUpyalM
+alt: "Dhanashree Badhe"
+href: https://www.linkedin.com/in/dhanashree-badhe/
+code: https://github.com/dbadhe
+categories:
+  - socalrug
+  - student
+---
