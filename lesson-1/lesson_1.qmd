@@ -9,22 +9,24 @@ Please fill out the following questions to help us know you better. Your respons
 
 ## Personal Information
 
-**Name:**  
-_Anurag Ramesh Patil_
+**Name:**
+_TJ Tolliver_
 
-**Major/Field of Study:**  
-_Master in Business Analytics_
+**Major/Field of Study: **
+_Masters of Science in Business Analytics_
 
 ## About You
 
 **1. What are your hobbies or interests?**  
-_Travelling, Playing guitar_
+
+_Board Games, Coffee, Climbing._
 
 **2. Why did you choose your current field of study?**  
-_to cash out the new oil_
+_Want to be able to work remote and create systems that make peoples jobs easier._
 
 **3. What is one skill you wish to improve or learn?**  
-_Coding, Data Analysis, Visualisation, and git_
+_my python and sql skills._
+
 
 ## Future Goals
 
