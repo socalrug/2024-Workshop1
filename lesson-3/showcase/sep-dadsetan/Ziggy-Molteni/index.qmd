@@ -1,0 +1,11 @@
+---
+title: "Matthew Ziggy Molteni"
+image: https://media.licdn.com/dms/image/D5603AQHjYw226_I3IA/profile-displayphoto-shrink_400_400/0/1691765609584?e=1715212800&v=beta&t=i1bn-K-baFnh1vQBA1wruuQ5m42eASUJaeqWAOK3MQ8
+alt: "Matthew Ziggy Molteni"
+href: https://www.linkedin.com/in/matthewmolteni/
+code: https://github.com/ZiggyMolteni
+categories:
+  - Data Science
+  - Sports 
+  - Chapman
+---

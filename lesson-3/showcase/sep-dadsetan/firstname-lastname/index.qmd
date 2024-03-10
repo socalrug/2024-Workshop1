@@ -1,0 +1,10 @@
+---
+title: "Random person"
+image: https://thispersondoesnotexist.com
+alt: "Random person"
+href: https://www.linkedin.com/in/sepdadsetan/
+code: https://github.com/phdjsep/
+categories:
+  - socalrug
+  - lecturer
+---
